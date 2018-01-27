@@ -16,7 +16,7 @@ Get a (very) short glimpse at a customizable shell using oh-my-zsh
 
 ## ZSH
 
-![GitPitch Slideshow URLs](http://zsh.org) 
+[http://zsh.org](http://zsh.org) 
 
 +++
 
