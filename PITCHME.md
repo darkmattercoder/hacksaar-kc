@@ -59,4 +59,4 @@ or
 [https://gitpitch.com/devjb/hacksaar-kc/master]
 [https://github.com/devjb/hacksaar-kc]
 
-[mailto://mail@jochenbauer.net]
+[mail@jochenbauer.net]
